@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -677,3 +678,7 @@
   </body>
 </html>
 
+=======
+# USCISCaseQuery
+Query the USCIS case based on case number and send an update when the case is updated
+>>>>>>> b797a55de8713f910534a7fcf151bb7519a7c84e
